@@ -7,6 +7,8 @@
 <a href="https://github.com/majfeizatgmaildotcom/Ad-Click-Visualization-and-Prediction/blob/eacfd418a8110df4fe3711b4d7f20083c4b42c3e/Visualization_project_forUCONN_PY_ver9_Final.py">Dashboard Python Viewer</a>
 <br>
 <a href="https://github.com/majfeizatgmaildotcom/Ad-Click-Visualization-and-Prediction/blob/e17aee6ff459dc43b05042ca7c1c34d209f2f2ae/AD%20Click%20Data%20Analaysis.ipynb">Jupyter Notebook Viewer For Utilization of GMM Analysis</a>
+<br>
+<a href="https://github.com/majfeizatgmaildotcom/Ad-Click-Visualization-and-Prediction/blob/9f147ee42b5dbde7d75935f7b28872423cc4a6da/Visualization_Presentation_Final_rev2.mp4">MP4 File Presention</a>
 
 ## Project Objective
  In the new era of the internet, marketing drastically changed, and companies extensively use the internet for advertising their product. However, it is crucial to target the right audience to manage the cost of the advertisements. Targeting the right audience via online marketing possesses many challenges. It is vital to have a detailed analysis to promote the product to the right customers efficiently and effectively to manage the cost.
