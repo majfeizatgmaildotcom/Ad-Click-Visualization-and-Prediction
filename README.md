@@ -69,6 +69,9 @@ The dashboard also provides a Geo map of the entire world and a tree map that qu
  The analysis shows the average Age of visitors is around 36 to 54 years (based on +/-2 sigma level), which concludes that the Site targets an adult audience. There is no difference in the male vs. female population in clicking the Ad, and the visitors who have more daily internet usage also have more spent on the Site. Turkey has the highest daily spent on Sites with avg Age of 41 years, with the city of Willemstad with an avg age of 30. Model prediction based on the Logistic Regression method can predict which visitor is more likely to Click on an Ad with an accuracy of 90.6%. 
 The entire figure in the dashboard is interactively changed based on the Age range and labeled Clicked on Ad data which provides a good tool for analyzing different scenarios.
 
-
+## More Detail
+<br>
+<a href=https://github.com/majfeizatgmaildotcom/Ad-Click-Visualization-and-Prediction/blob/e24fc35d8f38ecf143e2fc16e55e043232a5c723/Ad%20Click%20Visualization%20and%20Prediction%20Document.pdf">PDF Document Viewer</a>
+<br>
 
 
