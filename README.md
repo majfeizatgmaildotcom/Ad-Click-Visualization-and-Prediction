@@ -71,7 +71,7 @@ The entire figure in the dashboard is interactively changed based on the Age ran
 
 ## More Detail
 <br>
-<a href=https://github.com/majfeizatgmaildotcom/Ad-Click-Visualization-and-Prediction/blob/e24fc35d8f38ecf143e2fc16e55e043232a5c723/Ad%20Click%20Visualization%20and%20Prediction%20Document.pdf">PDF Document Viewer</a>
+<a href=https://github.com/majfeizatgmaildotcom/Ad-Click-Visualization-and-Prediction/blob/e24fc35d8f38ecf143e2fc16e55e043232a5c723/Ad%20Click%20Visualization%20and%20Prediction%20Document.pdf">PDF Document Viewer"</a>
 <br>
 
 
