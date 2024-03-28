@@ -11,10 +11,8 @@
 <a href="https://github.com/majfeizatgmaildotcom/Ad-Click-Visualization-and-Prediction/blob/9f147ee42b5dbde7d75935f7b28872423cc4a6da/Visualization_Presentation_Final_rev2.mp4">MP4 File for Dashboard Presentation</a>
 
 ## Project Objective
- In the new era of the internet, marketing drastically changed, and companies extensively use the internet for advertising their product. However, it is crucial to target the right audience to manage the cost of the advertisements. Targeting the right audience via online marketing possesses many challenges. It is vital to have a detailed analysis to promote the product to the right customers efficiently and effectively to manage the cost.
-
- In this project, the advertising marketing data is used to provide a detailed exploratory statistical and Geo-map analysis and provide a model predication based on the feature in the data such as, 'Age', 'Area Income', 'Daily Internet Usage', 'Ad Topic Line', 'City', 'Country', Gender, and if the user 'Clicked on Ad' or not.
-The variable of interest is 'Clicked on Ad' with two possible outcomes: 0 and 1, where 0 refers to the case where a user did not click the advertisement, while one refers to the cases where a user clicks the ad.
+"In the digital age, marketing has evolved, with companies increasingly leveraging online advertising. However, efficiently targeting the right audience is crucial to control advertising costs. Online marketing's challenge lies in accurately identifying and reaching potential customers. 
+This project utilizes advertising marketing data to conduct comprehensive exploratory statistical and geo-mapping analyses. By analyzing key features like 'Age', 'Area Income', 'Daily Internet Usage', 'Ad Topic Line', 'City', 'Country', 'Gender', and 'Clicked on Ad', I aim to predict user engagement with ads. The focus is on the 'Clicked on Ad' variable, distinguishing between users who did (1) and did not (0) click on an ad."
 <br>
 ## Methods Used
 + Data Collection
